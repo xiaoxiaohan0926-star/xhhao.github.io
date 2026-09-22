@@ -1,0 +1,107 @@
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  color: #222;
+  font-family: Arial, Helvetica, "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 820px;
+  max-width: calc(100% - 40px);
+  margin: 0 auto;
+  padding: 24px 0 64px;
+}
+
+.menu {
+  margin: 0 0 24px;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.menu span,
+.menu a {
+  margin-right: 7px;
+}
+
+a {
+  color: #267cb9;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+
+h1 {
+  margin: 0 0 16px;
+  color: #222;
+  font-size: 2em;
+  line-height: 1.2;
+  font-weight: 700;
+}
+
+h2 {
+  margin: 24px 0 12px;
+  color: #222;
+  font-size: 1.5em;
+  line-height: 1.25;
+  font-weight: 700;
+}
+
+p {
+  margin: 0 0 12px;
+}
+
+.intro,
+.lines {
+  margin-bottom: 4px;
+}
+
+.intro div,
+.lines div {
+  margin: 0;
+}
+
+ul {
+  margin: 8px 0 16px;
+  padding-left: 38px;
+}
+
+li {
+  margin: 0 0 4px;
+}
+
+.pub-list p {
+  margin: 0 0 16px;
+}
+
+.rank {
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 15px;
+  }
+
+  .container {
+    max-width: calc(100% - 28px);
+    padding-top: 18px;
+  }
+
+  h1 {
+    font-size: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.35em;
+  }
+}
