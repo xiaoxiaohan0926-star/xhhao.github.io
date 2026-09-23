@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190">
+<rect width="300" height="190" rx="12" fill="#f8f8fb"/>
+<rect x="20" y="42" width="91" height="95" rx="9" fill="#f1f5f9" stroke="#7c8799" stroke-width="2"/><rect x="189" y="42" width="91" height="95" rx="9" fill="#fff4f1" stroke="#a06450" stroke-width="2"/>
+<text x="65" y="59" text-anchor="middle" font-family="Arial" font-size="12" fill="#5b6472">Domain A</text><text x="235" y="59" text-anchor="middle" font-family="Arial" font-size="12" fill="#74584f">Domain B</text>
+<g fill="#fff" stroke="#64748b" stroke-width="2"><rect x="37" y="73" width="26" height="20" rx="3"/><rect x="69" y="100" width="26" height="20" rx="3"/><circle cx="80" cy="81" r="10"/></g><g fill="#fff" stroke="#a06450" stroke-width="2"><rect x="206" y="73" width="26" height="20" rx="3"/><rect x="238" y="100" width="26" height="20" rx="3"/><circle cx="249" cy="81" r="10"/></g>
+<g transform="translate(150 91)" fill="#edf1f5" stroke="#66758a" stroke-width="2"><path d="M-30 0l15-9 15 9-15 9z"/><path d="M0 0l15-9 15 9-15 9z"/><path d="M-15 25l15-9 15 9-15 9z"/><path d="M-15-25L0-34l15 9-15 9z"/></g>
+<path d="M110 91h18M172 91h18" stroke="#9a1b3f" stroke-width="3"/><path d="M124 86l8 5-8 5M176 86l-8 5 8 5" fill="#9a1b3f"/>
+<text x="150" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#525b68">Cross-Domain Access Control</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190">
+<rect width="300" height="190" rx="12" fill="#f6f8fb"/>
+<g fill="#eef2f7" stroke="#718096" stroke-width="2"><rect x="25" y="45" width="52" height="34" rx="5"/><rect x="25" y="111" width="52" height="34" rx="5"/><rect x="223" y="45" width="52" height="34" rx="5"/><rect x="223" y="111" width="52" height="34" rx="5"/></g>
+<g fill="#718096"><circle cx="42" cy="58" r="6"/><path d="M32 72c4-9 16-9 20 0"/><circle cx="42" cy="124" r="6"/><path d="M32 138c4-9 16-9 20 0"/><circle cx="240" cy="58" r="6"/><path d="M230 72c4-9 16-9 20 0"/><circle cx="240" cy="124" r="6"/><path d="M230 138c4-9 16-9 20 0"/></g>
+<g stroke="#6d7f96" stroke-width="2.4" fill="none"><path d="M77 62l57 22"/><path d="M77 128l57-23"/><path d="M223 62l-57 22"/><path d="M223 128l-57-23"/></g>
+<rect x="126" y="70" width="48" height="48" rx="8" fill="#fff" stroke="#9a1b3f" stroke-width="2.5"/><path d="M136 82h28v7h-28zM136 95h28v7h-28z" fill="#dbe2eb"/><path d="M150 112c-10-5-16-14-16-25l16-7 16 7c0 11-6 20-16 25z" fill="#f4e5e9" stroke="#9a1b3f" stroke-width="2"/>
+<path d="M151 85v14M144 92h14" stroke="#9a1b3f" stroke-width="2.5"/>
+<path d="M148 34c11 4 19 9 25 15" stroke="#c65454" stroke-width="3" stroke-dasharray="5 4" fill="none"/><path d="M171 43l8 10-13-1" fill="#c65454"/>
+<circle cx="139" cy="30" r="8" fill="#f7dddd" stroke="#c65454" stroke-width="2"/><path d="M135 26l8 8M143 26l-8 8" stroke="#c65454" stroke-width="2"/>
+<text x="150" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#525b68">Secure Federated Learning</text>
+</svg>

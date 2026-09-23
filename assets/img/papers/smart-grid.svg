@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190">
+<rect width="300" height="190" rx="12" fill="#f7f9fb"/>
+<g stroke="#64748b" stroke-width="2" fill="#fff"><path d="M30 112h55V78L58 57 30 78z"/><path d="M215 112h55V78l-27-21-28 21z"/></g><rect x="49" y="92" width="16" height="20" fill="#edf1f5" stroke="#64748b" stroke-width="2"/><rect x="234" y="92" width="16" height="20" fill="#fff0e8" stroke="#a06450" stroke-width="2"/>
+<path d="M91 88h38M171 88h38" stroke="#8a95a4" stroke-width="2.5"/><path d="M123 82l10 6-10 6M177 82l-10 6 10 6" fill="#8a95a4"/>
+<path d="M144 61l-15 31h17l-8 29 31-42h-18l10-18z" fill="#e3ae3b" stroke="#b68117" stroke-width="2"/>
+<g transform="translate(150 138)"><rect x="-34" y="-16" width="68" height="30" rx="6" fill="#eef4f0" stroke="#477a5b" stroke-width="2"/><path d="M-20-4h40M-20 5h30" stroke="#7fa18a" stroke-width="2.5" stroke-linecap="round"/><circle cx="23" cy="0" r="7" fill="#dcebe1" stroke="#477a5b" stroke-width="2"/></g>
+<g transform="translate(150 35)" fill="#edf1f5" stroke="#64748b" stroke-width="1.8"><path d="M-25 0l12-7 12 7-12 7z"/><path d="M0 0l12-7 12 7-12 7z"/><path d="M-12 18l12-7 12 7-12 7z"/></g>
+<text x="150" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#525b68">Blockchain Smart Grid</text>
+</svg>

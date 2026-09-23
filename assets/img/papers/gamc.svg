@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 190">
+<rect width="300" height="190" rx="12" fill="#f7f8fb"/>
+<g stroke="#7c8799" stroke-width="2"><path d="M39 62h48M39 92h48M39 122h48"/><path d="M87 62l39 30M87 92h39M87 122l39-30"/><path d="M126 92h40"/></g>
+<g fill="#dbe4f2" stroke="#64748b" stroke-width="2"><circle cx="30" cy="62" r="9"/><circle cx="30" cy="92" r="9"/><circle cx="30" cy="122" r="9"/><circle cx="96" cy="62" r="9"/><circle cx="96" cy="92" r="9"/><circle cx="96" cy="122" r="9"/><circle cx="135" cy="92" r="11"/></g>
+<rect x="159" y="55" width="66" height="74" rx="7" fill="#fff" stroke="#9a1b3f" stroke-width="2.5"/><path d="M173 75h38M173 88h30M173 101h34" stroke="#c0c6d0" stroke-width="3" stroke-linecap="round"/><circle cx="192" cy="117" r="10" fill="#f5e6ea" stroke="#9a1b3f" stroke-width="2"/><path d="M188 117l3 3 6-8" fill="none" stroke="#9a1b3f" stroke-width="2.5"/>
+<g transform="translate(244 91)"><path d="M0-25l22 9v18c0 16-10 28-22 34-12-6-22-18-22-34v-18z" fill="#edf5f0" stroke="#477a5b" stroke-width="2.5"/><path d="M-9 3l7 7 13-17" fill="none" stroke="#477a5b" stroke-width="3" stroke-linecap="round"/></g>
+<path d="M218 143c20 11 43 9 56-6" fill="none" stroke="#9a1b3f" stroke-width="2.5" stroke-dasharray="5 4"/><path d="M271 133l7 2-4 7" fill="#9a1b3f"/>
+<text x="150" y="174" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="600" fill="#525b68">Model Certification · Anti-Reuse</text>
+</svg>
